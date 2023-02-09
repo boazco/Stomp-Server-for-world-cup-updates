@@ -1,0 +1,98 @@
+{
+    "team a": "Germany",
+    "team b": "Japan",
+    "events": [
+        {
+            "event name": "kickoff",
+            "time": 0,
+            "general game updates": {
+                "active": true,
+                "before halftime": true
+            },
+            "team a updates": {},
+            "team b updates": {},
+            "description": "The game has started! What an exciting evening!"
+        },
+        {
+            "event name": "goal!!!!",
+            "time": 1980,
+            "general game updates": {},
+            "team a updates": {
+                "goals": "1",
+                "possession": "90%"
+            },
+            "team b updates": {
+                "possession": "10%"
+            },
+            "description": "GOOOAAALLL!!! Germany lead!!! Gundogan finally has success in the box as he steps up to take the penalty, sends Gonda the wrong way, and slots the ball into the left-hand corner to put Germany 1-0 up! A needless penalty to concede from Japan's point of view, and after a bright start, the Samurai Blues trail!"
+        },
+        {
+            "event name": "Another goal!!!!",
+            "time": 2940,
+            "general game updates": {},
+            "team a updates": {
+                "goals": "2"
+            },
+            "team b updates": {
+            },
+            "description": "BALL IN THE NET!!! Germany think they've doubled their lead following a brilliant passage of play, but there looks to an issue of offside as Havertz wheels away! Muller's cross from the right is headed away to Kimmich, who hits a low shot towards the bottom corner Gonda sees it late and parries it away, but Gnabry drills the ball back across the face and Havertz taps it in! The goal is given initially, but no doubt we'll be going upstairs for a second look---"
+        },
+        {
+            "event name": "No goal",
+            "time": 3000,
+            "general game updates": {},
+            "team a updates": {
+                "goals": "1"
+
+            },
+            "team b updates": {
+
+            },
+            "description": "No goal! After a VAR review, a goal for Germany is ruled out."
+        },
+        {
+            "event name": "halftime",
+            "time": 3060,
+            "general game updates": {"before halftime": false},
+            "team a updates": {},
+            "team b updates": {},
+            "description": "The first half ends, and what a half it's been! Germany almost suffered an early scare as Maeda tapped in after just eight minutes, but his offside position gave the 2014 champions a huge let-off This spooked them into gear, and the remainder of the half was dominated by the Germans, who peppered the Japan goal winning a 33rd-minute Gundogan slotted it home to put Die Nationalelf into a deserved lead. They almost doubled it half-time, as Havertz finished off a great attacking move, but he was also caught in an offside position, meaning the lead is still just one goal at the break."
+        },
+        {
+            "event name": "goalgoalgoalgoalgoal!!!",
+            "time": 4500,
+            "general game updates": {},
+            "team a updates": {
+                "possession": "55%"
+            },
+            "team b updates": {
+                "goals": "1",
+                "possession": "45%"
+            },
+            "description": "GOOOOAAAALLLL!!!!! Japan have parity and boy do they deserve it!!! Mitoma drives fowrard before feeding Minamino, whose ball across the face is parried away by Neuer. Doan reacts quickest to smash the ball into the back of the net, and the three Japan substitutes combine to put them back on level terms at 1-1!"
+        }, 
+        {
+            "event name": "goalgoalgoalgoalgoal!!!",
+            "time": 4980,
+            "general game updates": {},
+            "team a updates": {
+                "possession": "51%"
+            },
+            "team b updates": {
+                "goals": "2",
+                "possession": "49%"
+            },
+            "description": "GOOOOOOAAAAALLLL!!!! Can you believe Itakura's long ball from a free-kick in his own half is met by Asano, who beats Schlotterbeck with a beauty of a first touch. He darts into the box and smashes a shot from the tightest of angles, which beats Neuer and flies into the roof of the net!!! What a turnaround, what a story, and what a finish, to put Japan 2-1 up!!!"
+        }, 
+        {
+            "event name": "final whistle",
+            "time": 5400,
+            "general game updates": {
+                "active": false
+            },
+            "team a updates": {},
+            "team b updates": {},
+            "description": "Well, what a way to kick off Group E! Germany sit at the bottom of the group following that defeat, while Japan are at the top with one win from one! Spain and Costa Rica are yet to play their corresponding fixture, but if the rest of the games are anything like this one, we're in for one hell of a treat, and a very competitive set of fixtures."
+        }
+    ]
+}

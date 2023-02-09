@@ -1,0 +1,32 @@
+{
+    "team a": "Germany",
+    "team b": "Japan",
+    "events": [
+        {
+            "event name": "kickoff",
+            "time": 0,
+            "general game updates": {
+                "active": true
+            },
+            "team a updates": {},
+            "team b updates": {},
+            "description": "The game has started! What an exciting evening!"
+        },
+        {
+            "event name": "goal!!!!",
+            "time": 1980,
+            "general game updates": {},
+            "team a updates": {
+                "goals": "1",
+                "possession": "90%"
+            },
+            "team b updates": {
+                "possession": "10%"
+            },
+            "description": "GOOOAAALLL!!! Germany lead!!! Gundogan finally has success in the box as he steps up to take the penalty, sends Gonda the wrong way, and slots the ball into tne left-hand corner to put Germany 1-0 up! A needless penalty to concede from Japan's point of view, and after a bright start, the Samurai Blues trail!"
+        }
+    ]
+}
+
+
+///////
